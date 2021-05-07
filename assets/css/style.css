@@ -1,0 +1,24 @@
+.jumbotron{
+    padding-top : 6rem;
+    background-color: aqua;
+}
+.pendidikan {
+    padding-top: 6rem;
+    background-color: aqua;
+}
+.organisasi{
+    padding-top: 6rem;
+    background-color: #0099ff;
+}
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+}
+body{
+    min-height: 1000px;
+}
