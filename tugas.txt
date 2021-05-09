@@ -1,0 +1,10 @@
+1.	Buatkan sebuah halaman website yang berisikan Curriculum Vitae (CV) diri Anda dengan template dan susunan konten yang menarik, 
+    dengan ketentuan sebagai berikut:
+    a.  Memiliki image/foto diri
+    b.	Minimal terdapat 2 paragraf tentang deskripsi diri atau apapun yang menjelaskan tentang diri Anda.
+    c.	Memiliki tag-tag Heading dan elemen Komentar
+    d.	Memiliki tag-tag untuk Text Formatting 
+    e.	Memiliki minimal 3 link internal atau eksternal (bebas menuju ke apapun)
+    f.	Memiliki minimal 3 image/gambar
+    g.	Memiliki minimal 2 tabel
+    h.	Memiliki minimal 2 list
